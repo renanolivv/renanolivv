@@ -1,16 +1,11 @@
-## Hi there 👋
+Boas Vindas ao meu perfil
+Meu nome é Renãn Oliveira Fogace
 
-<!--
-**renanolivv/renanolivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em Eletrica
+- 🌱 Atualmente estou aprendendo Eletricidade
+- 👯 Procuro colaborar em ajudar pessoas
+- 🤔 Estou procurando ajuda com Pessoas Inteligentes
+- 💬 Pergunte-me sobre Eletricidaes Basicas
+- 📫 Como entrar em contato comigo: Pelo Whatazapp 011 934724630
+- 😄 Pronomes: Homem Bomba,Arabio
+- ⚡ Curiosidade: Sou uma pessoa que gosta de ajudar muito as pessoas
